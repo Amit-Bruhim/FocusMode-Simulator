@@ -55,9 +55,9 @@ Follow these steps to set up the project locally:
 git clone https://github.com/Amit-Bruhim/FocusMode-Simulator.git
 ```
 
-### 2. Navigate into the src folder
+### 2. Navigate into the project folder
 ```bash
-cd FocusMode-Simulator/src
+cd FocusMode-Simulator
 ```
 
 ### 3. Compile and Run the program using Make
